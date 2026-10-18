@@ -1,10 +1,10 @@
-# LumiView
+# ShelfView
 
 Paper **26.3**, Java **25**. Uses vanilla shelf blocks; no resource pack or client mod.
 
 ## Install
 
-Build with `./gradlew build` (Windows: `gradlew.bat build`), copy `build/libs/lumiview-1.0.0.jar` into your server's `plugins/` folder, and restart the server.
+Build with `./gradlew build` (Windows: `gradlew.bat build`), copy `build/libs/shelfview-1.0.0.jar` into your server's `plugins/` folder, and restart the server.
 
 ## Use
 

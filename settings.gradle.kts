@@ -1,1 +1,1 @@
-rootProject.name = "lumiview"
+rootProject.name = "shelfview"

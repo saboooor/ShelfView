@@ -1,4 +1,4 @@
-package io.github.saboooor.lumiview;
+package io.github.saboooor.shelfview;
 
 import java.util.HashSet;
 import java.util.Iterator;
@@ -29,7 +29,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /** Shelf items exist only in outgoing block-entity packets, never in world storage. */
-public final class LumiViewPlugin extends JavaPlugin implements Listener {
+public final class ShelfViewPlugin extends JavaPlugin implements Listener {
     private final Set<Location> shelves = new HashSet<>();
 
     @Override

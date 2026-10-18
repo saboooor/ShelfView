@@ -1,4 +1,4 @@
-package io.github.saboooor.lumiview;
+package io.github.saboooor.shelfview;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;

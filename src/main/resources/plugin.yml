@@ -1,6 +1,6 @@
-name: LumiView
+name: ShelfView
 version: '${version}'
-main: io.github.saboooor.lumiview.LumiViewPlugin
+main: io.github.saboooor.shelfview.ShelfViewPlugin
 api-version: '26.3'
 description: Native shelf previews for the chest directly behind them.
 author: saboooor
